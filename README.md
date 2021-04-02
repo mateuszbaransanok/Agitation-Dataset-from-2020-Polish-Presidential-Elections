@@ -33,8 +33,8 @@ pip install -r requirements.txt
 
 ## Example of model usage
 We trained a classifier based on a transformer language model HerBERT which is dedicated 
-to the Polish language. Finally, we achieved 68% F1 score for the train-test split in
-an 80/20 ratio.
+to the Polish language. Finally, we achieved 68% F1 score for the stratified train-test 
+split in an 80/20 ratio.
 
 Open python or jupyter notebook and run
 
