@@ -1,20 +1,16 @@
 # Electoral Agitation Dataset
 The popularity of social media makes politicians use it for political campaigns. 
-Therefore, social media are full of political ads posted by candidates and other 
-messages that influence the electorate. From the election point of view, all 
-defamatory or false content that influences the voters is illegal. It can be 
-subjected to an expedited court proceeding by competing, affected candidates but
-the real problems rest in a burden of proof. The election administration cannot 
-track the spread and quantity of messages that count as political agitation 
-(electioneering) under the election code. Hence, we present the first publicly 
-open dataset for detecting political agitation in the Polish language. It contains
-6,112 human-annotated tweets tagged with four legally conditioned categories. 
-We achieved a 0.66 inter-annotator agreement (Cohen’s kappa score). An additional
-annotator resolved the mismatches between the first two improving the annotation
-process's consistency and complexity. We used the newly created dataset to train 
-a HerBERT model (achieving a 68% F1 score). We also present a possible direction
-of use cases for such datasets and models, enriching the paper with an analysis 
-of the Polish 2020 Presidential Elections on Twitter.
+Therefore, social media are full of agitation, especially during the election. 
+The election administration cannot track the spread and quantity of messages that 
+count as electoral agitation (electioneering) under the election code. Hence, we 
+present the first publicly open dataset for detecting electoral agitation in the 
+Polish language. It contains 6,112 human-annotated tweets tagged with four legally 
+conditioned categories. We achieved a 0.66 inter-annotator agreement (Cohen’s 
+kappa score). An additional annotator resolved the mismatches between the first 
+two improving the annotation process's consistency and complexity. We used the newly
+created dataset to train a HerBERT model (achieving a 68% F1 score). We also present 
+a possible direction of use cases for such datasets and models, enriching the paper 
+with an analysis of the Polish 2020 Presidential Election on Twitter.
 
 ## Interactive dashboards and poster
 The outcome of our work is also available at [www.smart-wust.ml](http://www.smart-wust.ml/) in the section
