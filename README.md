@@ -1,4 +1,4 @@
-# Agitation Dataset from 2020 Polish Presidential Elections
+# Electoral Agitation Dataset
 The popularity of social media makes politicians use it for political campaigns. 
 Therefore, social media are full of political ads posted by candidates and other 
 messages that influence the electorate. From the election point of view, all 
