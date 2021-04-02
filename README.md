@@ -16,10 +16,11 @@ a HerBERT model (achieving a 68% F1 score). We also present a possible direction
 of use cases for such datasets and models, enriching the paper with an analysis 
 of the Polish 2020 Presidential Elections on Twitter.
 
-## Interactive dashboards
+## Interactive dashboards and poster
 The outcome of our work is also available at [www.smart-wust.ml](http://www.smart-wust.ml/) in the section
 *Agitation*, where one can reach additional analysis and insights as well as examples of model's
-usage including the scoring of own entered text.
+usage including the scoring of own entered text. You can also see the result of our work 
+in the form of a [poster](assets/Is_agitation_flooding_social_media.pdf).
 
 ## Requirements
 Python >= 3.8
