@@ -64,5 +64,23 @@ It contains tweet ID, URL, label and meta-data assigned to the tweet.
 our collaborators (much more relaxed and faster solution).**  
 
 ## Citing
-
-## Acknowledgment
+```text
+@inproceedings{baran-etal-2022-electoral,
+    title = "Electoral Agitation Dataset: The Use Case of the {P}olish Election",
+    author = "Baran, Mateusz  and
+      W{\'o}jcik, Mateusz  and
+      Kolebski, Piotr  and
+      Bernaczyk, Micha{\l}  and
+      Rajda, Krzysztof  and
+      Augustyniak, Lukasz  and
+      Kajdanowicz, Tomasz",
+    booktitle = "Proceedings of the LREC 2022 workshop on Natural Language Processing for Political Sciences",
+    month = jun,
+    year = "2022",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://aclanthology.org/2022.politicalnlp-1.5",
+    pages = "32--36",
+    abstract = "The popularity of social media makes politicians use it for political advertisement. Therefore, social media is full of electoral agitation (electioneering), especially during the election campaigns. The election administration cannot track the spread and quantity of messages that count as agitation under the election code. It addresses a crucial problem, while also uncovering a niche that has not been effectively targeted so far. Hence, we present the first publicly open data set for detecting electoral agitation in the Polish language. It contains 6,112 human-annotated tweets tagged with four legally conditioned categories. We achieved a 0.66 inter-annotator agreement (Cohen{'}s kappa score). An additional annotator resolved the mismatches between the first two improving the consistency and complexity of the annotation process. The newly created data set was used to fine-tune a Polish Language Model called HerBERT (achieving a 68{\%} F1 score). We also present a number of potential use cases for such data sets and models, enriching the paper with an analysis of the Polish 2020 Presidential Election on Twitter.",
+}
+```
